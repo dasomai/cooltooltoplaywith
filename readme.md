@@ -16,6 +16,10 @@ https://runwayml.com/
 
 https://huggingface.co/
 
+https://imgflip.com/memegenerator
+
+https://www.canva.com/
+
 
 
 http://notion.new/
