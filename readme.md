@@ -14,6 +14,9 @@ https://github.com/openai/whisper
 
 https://runwayml.com/
 
+https://www.wolframalpha.com/
+
+
 https://huggingface.co/
 
 https://imgflip.com/memegenerator
